@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/236
     wikipedia: http://en.wikipedia.org/wiki/Harry_Houdini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42723#The-Unmasking-of-Robert-Houdin
 gutenberg_issued: '2013-05-16'
 gutenberg_type: Text
 identifiers:
